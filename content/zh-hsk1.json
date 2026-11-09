@@ -461,7 +461,10 @@
     {
       "hanzi": "我早上七点起床。",
       "pinyin": "wǒ zǎoshang qī diǎn qǐchuáng.",
-      "meaning": "Tôi thức dậy lúc bảy giờ sáng."
+      "meaning": "Tôi thức dậy lúc bảy giờ sáng.",
+      "alternatives": [
+        "早上七点我起床。"
+      ]
     },
     {
       "hanzi": "我们一起学汉语。",
@@ -945,6 +948,146 @@
       ],
       "correctIndex": 0,
       "tip": "一共 = tổng cộng; 二十八 = 28."
+    }
+  ],
+  "tones": [
+    {
+      "syllable": "ma",
+      "tone": 1,
+      "hanzi": "妈",
+      "pinyin": "mā"
+    },
+    {
+      "syllable": "ma",
+      "tone": 2,
+      "hanzi": "麻",
+      "pinyin": "má"
+    },
+    {
+      "syllable": "ma",
+      "tone": 3,
+      "hanzi": "马",
+      "pinyin": "mǎ"
+    },
+    {
+      "syllable": "ma",
+      "tone": 4,
+      "hanzi": "骂",
+      "pinyin": "mà"
+    },
+    {
+      "syllable": "ba",
+      "tone": 1,
+      "hanzi": "八",
+      "pinyin": "bā"
+    },
+    {
+      "syllable": "ba",
+      "tone": 2,
+      "hanzi": "拔",
+      "pinyin": "bá"
+    },
+    {
+      "syllable": "ba",
+      "tone": 3,
+      "hanzi": "把",
+      "pinyin": "bǎ"
+    },
+    {
+      "syllable": "ba",
+      "tone": 4,
+      "hanzi": "爸",
+      "pinyin": "bà"
+    },
+    {
+      "syllable": "shi",
+      "tone": 1,
+      "hanzi": "师",
+      "pinyin": "shī"
+    },
+    {
+      "syllable": "shi",
+      "tone": 2,
+      "hanzi": "十",
+      "pinyin": "shí"
+    },
+    {
+      "syllable": "shi",
+      "tone": 3,
+      "hanzi": "使",
+      "pinyin": "shǐ"
+    },
+    {
+      "syllable": "shi",
+      "tone": 4,
+      "hanzi": "是",
+      "pinyin": "shì"
+    },
+    {
+      "syllable": "yi",
+      "tone": 1,
+      "hanzi": "一",
+      "pinyin": "yī"
+    },
+    {
+      "syllable": "yi",
+      "tone": 2,
+      "hanzi": "姨",
+      "pinyin": "yí"
+    },
+    {
+      "syllable": "yi",
+      "tone": 3,
+      "hanzi": "椅",
+      "pinyin": "yǐ"
+    },
+    {
+      "syllable": "yi",
+      "tone": 4,
+      "hanzi": "意",
+      "pinyin": "yì"
+    },
+    {
+      "syllable": "tang",
+      "tone": 1,
+      "hanzi": "汤",
+      "pinyin": "tāng"
+    },
+    {
+      "syllable": "tang",
+      "tone": 2,
+      "hanzi": "糖",
+      "pinyin": "táng"
+    },
+    {
+      "syllable": "tang",
+      "tone": 3,
+      "hanzi": "躺",
+      "pinyin": "tǎng"
+    },
+    {
+      "syllable": "tang",
+      "tone": 4,
+      "hanzi": "烫",
+      "pinyin": "tàng"
+    },
+    {
+      "syllable": "ma",
+      "tone": 5,
+      "hanzi": "吗",
+      "pinyin": "ma"
+    },
+    {
+      "syllable": "ne",
+      "tone": 5,
+      "hanzi": "呢",
+      "pinyin": "ne"
+    },
+    {
+      "syllable": "de",
+      "tone": 5,
+      "hanzi": "的",
+      "pinyin": "de"
     }
   ],
   "confusables": [
