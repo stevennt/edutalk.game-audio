@@ -3,7 +3,7 @@
   "language": "chinese",
   "speaker": "vivian",
   "pace": 1.0,
-  "generatedAt": "2026-11-09T11:54:35Z",
+  "generatedAt": "2026-11-09T12:09:53Z",
   "clips": {
     "word:你好": {
       "file": "word-83719146.mp3",
@@ -554,6 +554,126 @@
       "file": "tone-8ae05287.mp3",
       "durationMs": 1280,
       "bytes": 10988
+    },
+    "dialogue:home_where_subway:prompt": {
+      "file": "dlg-980f84fe.mp3",
+      "durationMs": 1920,
+      "bytes": 15980
+    },
+    "dialogue:home_where_subway:reply": {
+      "file": "dlg-81789233.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "dialogue:home_ate_yet:prompt": {
+      "file": "dlg-55345a90.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "dialogue:home_ate_yet:reply": {
+      "file": "dlg-7d0bb2ee.mp3",
+      "durationMs": 1920,
+      "bytes": 15980
+    },
+    "dialogue:subway_how_to_school:prompt": {
+      "file": "dlg-d8a22d0e.mp3",
+      "durationMs": 2640,
+      "bytes": 21740
+    },
+    "dialogue:subway_how_to_school:reply": {
+      "file": "dlg-db38f772.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "dialogue:subway_where_going:prompt": {
+      "file": "dlg-8119eaf8.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "dialogue:subway_where_going:reply": {
+      "file": "dlg-2f8cf1a4.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "dialogue:school_are_you_student:prompt": {
+      "file": "dlg-f27cbe3d.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "dialogue:school_are_you_student:reply": {
+      "file": "dlg-a105ea74.mp3",
+      "durationMs": 1920,
+      "bytes": 15980
+    },
+    "dialogue:school_hanyu_class:prompt": {
+      "file": "dlg-7a337122.mp3",
+      "durationMs": 1760,
+      "bytes": 14828
+    },
+    "dialogue:school_hanyu_class:reply": {
+      "file": "dlg-05c68188.mp3",
+      "durationMs": 2480,
+      "bytes": 20588
+    },
+    "dialogue:restaurant_what_to_eat:prompt": {
+      "file": "dlg-6428804f.mp3",
+      "durationMs": 3280,
+      "bytes": 26924
+    },
+    "dialogue:restaurant_what_to_eat:reply": {
+      "file": "dlg-5a79e9d8.mp3",
+      "durationMs": 1680,
+      "bytes": 14060
+    },
+    "dialogue:restaurant_what_to_drink:prompt": {
+      "file": "dlg-ea2a4bf6.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "dialogue:restaurant_what_to_drink:reply": {
+      "file": "dlg-e8c60c5b.mp3",
+      "durationMs": 1440,
+      "bytes": 12140
+    },
+    "dialogue:shop_apple_price:prompt": {
+      "file": "dlg-9716a569.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "dialogue:shop_apple_price:reply": {
+      "file": "dlg-4be5d120.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "dialogue:shop_how_many:prompt": {
+      "file": "dlg-f103e913.mp3",
+      "durationMs": 880,
+      "bytes": 7724
+    },
+    "dialogue:shop_how_many:reply": {
+      "file": "dlg-92b9734a.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "dialogue:shop_anything_else:prompt": {
+      "file": "dlg-0a36bda9.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "dialogue:shop_anything_else:reply": {
+      "file": "dlg-77dc92eb.mp3",
+      "durationMs": 1840,
+      "bytes": 15404
+    },
+    "dialogue:shop_total_price:prompt": {
+      "file": "dlg-b156e6b6.mp3",
+      "durationMs": 1600,
+      "bytes": 13484
+    },
+    "dialogue:shop_total_price:reply": {
+      "file": "dlg-080af015.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
     }
   }
 }
