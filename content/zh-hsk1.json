@@ -950,6 +950,100 @@
       "tip": "一共 = tổng cộng; 二十八 = 28."
     }
   ],
+  "clozes": [
+    {
+      "id": "school_routine",
+      "level": "hsk1",
+      "title": "小明的一天",
+      "parts": [
+        "小明每天早上去学校。",
+        "他七点起床，",
+        "吃早饭。学校离他家不远，",
+        "他走路去。",
+        "他很喜欢学汉语，上课时很认真。"
+      ],
+      "blanks": [
+        {
+          "options": [
+            "首先",
+            "最后",
+            "但是"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "options": [
+            "然后",
+            "因为",
+            "虽然"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "options": [
+            "所以",
+            "但是",
+            "还是"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "options": [
+            "因为",
+            "所以",
+            "虽然"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "shanghai_weather",
+      "level": "hsk2",
+      "title": "上海的旅行",
+      "parts": [
+        "上个月我们去上海旅行。",
+        "天气不太好，我们还是很开心。",
+        "外滩的人非常多，风景很美。晚上我们吃了面条，",
+        "那家饭馆很便宜。第二天下雨了，",
+        "我们去了博物馆。"
+      ],
+      "blanks": [
+        {
+          "options": [
+            "虽然",
+            "因为",
+            "所以"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "options": [
+            "但是",
+            "因为",
+            "然后"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "options": [
+            "因为",
+            "但是",
+            "虽然"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "options": [
+            "于是",
+            "虽然",
+            "因为"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
   "passages": [
     {
       "id": "school_day",
