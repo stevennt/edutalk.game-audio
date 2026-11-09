@@ -950,6 +950,68 @@
       "tip": "一共 = tổng cộng; 二十八 = 28."
     }
   ],
+  "pictures": [
+    {
+      "id": "school",
+      "label": "学校",
+      "labelPinyin": "xuéxiào",
+      "keywords": [
+        "学生",
+        "老师",
+        "学校"
+      ],
+      "modelAnswer": "这是学校。我是学生。老师也在学校。",
+      "modelPinyin": "zhè shì xuéxiào. wǒ shì xuésheng. lǎoshī yě zài xuéxiào."
+    },
+    {
+      "id": "home",
+      "label": "家",
+      "labelPinyin": "jiā",
+      "keywords": [
+        "家",
+        "妈妈",
+        "吃饭"
+      ],
+      "modelAnswer": "这是我家。妈妈在家。我们一起吃饭。",
+      "modelPinyin": "zhè shì wǒ jiā. māma zài jiā. wǒmen yìqǐ chīfàn."
+    },
+    {
+      "id": "shop",
+      "label": "商店",
+      "labelPinyin": "shāngdiàn",
+      "keywords": [
+        "买",
+        "苹果",
+        "钱"
+      ],
+      "modelAnswer": "这是商店。我要买苹果。我给你钱。",
+      "modelPinyin": "zhè shì shāngdiàn. wǒ yào mǎi píngguǒ. wǒ gěi nǐ qián."
+    },
+    {
+      "id": "restaurant",
+      "label": "饭馆",
+      "labelPinyin": "fànguǎn",
+      "keywords": [
+        "吃",
+        "米饭",
+        "茶"
+      ],
+      "modelAnswer": "这是饭馆。我吃米饭。我喝茶。",
+      "modelPinyin": "zhè shì fànguǎn. wǒ chī mǐfàn. wǒ hē chá."
+    },
+    {
+      "id": "subway",
+      "label": "地铁",
+      "labelPinyin": "dìtiě",
+      "keywords": [
+        "地铁",
+        "去",
+        "北京"
+      ],
+      "modelAnswer": "这是地铁。我坐地铁。我去北京。",
+      "modelPinyin": "zhè shì dìtiě. wǒ zuò dìtiě. wǒ qù Běijīng."
+    }
+  ],
   "tones": [
     {
       "syllable": "ma",
