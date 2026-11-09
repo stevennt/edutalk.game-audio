@@ -950,6 +950,207 @@
       "tip": "一共 = tổng cộng; 二十八 = 28."
     }
   ],
+  "grammarFrames": [
+    {
+      "id": "possessive_de",
+      "segments": [
+        "这是我",
+        "书。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "得",
+            "的",
+            "地"
+          ],
+          "correctIndex": 1,
+          "kind": "particle"
+        }
+      ],
+      "pinyin": "zhè shì wǒ de shū.",
+      "meaning": "Đây là sách của tôi.",
+      "note": "的 đứng giữa người sở hữu và vật được sở hữu: 我的书 = sách của tôi."
+    },
+    {
+      "id": "degree_de",
+      "segments": [
+        "他跑",
+        "很快。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "得",
+            "的",
+            "地"
+          ],
+          "correctIndex": 0,
+          "kind": "particle"
+        }
+      ],
+      "pinyin": "tā pǎo de hěn kuài.",
+      "meaning": "Anh ấy chạy rất nhanh.",
+      "note": "得 đứng sau động từ để nói mức độ: 跑得很快 = chạy (đến mức) rất nhanh."
+    },
+    {
+      "id": "adverbial_de",
+      "segments": [
+        "她慢慢",
+        "走。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "的",
+            "地",
+            "得"
+          ],
+          "correctIndex": 1,
+          "kind": "particle"
+        }
+      ],
+      "pinyin": "tā màn man de zǒu.",
+      "meaning": "Cô ấy đi chậm rãi.",
+      "note": "地 đứng trước động từ để nói cách làm: 慢慢地走 = đi một cách chậm rãi."
+    },
+    {
+      "id": "perfective_le",
+      "segments": [
+        "我吃",
+        "一个苹果。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "过",
+            "了",
+            "的"
+          ],
+          "correctIndex": 1,
+          "kind": "aspect"
+        }
+      ],
+      "pinyin": "wǒ chī le yí ge píngguǒ.",
+      "meaning": "Tôi đã ăn một quả táo.",
+      "note": "了 nói việc đã xảy ra và có kết quả: ăn hết một quả táo."
+    },
+    {
+      "id": "experiential_guo",
+      "segments": [
+        "我去",
+        "北京。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "过",
+            "了",
+            "得"
+          ],
+          "correctIndex": 0,
+          "kind": "aspect"
+        }
+      ],
+      "pinyin": "wǒ qù guo Běijīng.",
+      "meaning": "Tôi đã từng đi Bắc Kinh.",
+      "note": "过 nói đã từng trải qua, không quan tâm lúc nào: 去过 = đã từng đến."
+    },
+    {
+      "id": "measure_shu",
+      "segments": [
+        "我买了一",
+        "书。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "个",
+            "本",
+            "只"
+          ],
+          "correctIndex": 1,
+          "kind": "measureWord"
+        }
+      ],
+      "pinyin": "wǒ mǎi le yì běn shū.",
+      "meaning": "Tôi đã mua một quyển sách.",
+      "note": "Sách đếm bằng 本: 一本书 = một quyển sách."
+    },
+    {
+      "id": "measure_zhi",
+      "segments": [
+        "我家有三",
+        "猫。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "只",
+            "本",
+            "件"
+          ],
+          "correctIndex": 0,
+          "kind": "measureWord"
+        }
+      ],
+      "pinyin": "wǒ jiā yǒu sān zhī māo.",
+      "meaning": "Nhà tôi có ba con mèo.",
+      "note": "Con vật nhỏ đếm bằng 只: 三只猫 = ba con mèo."
+    },
+    {
+      "id": "measure_jian",
+      "segments": [
+        "他买了两",
+        "衣服。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "个",
+            "只",
+            "件"
+          ],
+          "correctIndex": 2,
+          "kind": "measureWord"
+        }
+      ],
+      "pinyin": "tā mǎi le liǎng jiàn yīfu.",
+      "meaning": "Anh ấy đã mua hai bộ quần áo.",
+      "note": "Quần áo đếm bằng 件: 两件衣服 = hai bộ quần áo."
+    },
+    {
+      "id": "two_slots",
+      "segments": [
+        "这",
+        "书是我",
+        "。"
+      ],
+      "slots": [
+        {
+          "options": [
+            "本",
+            "个",
+            "只"
+          ],
+          "correctIndex": 0,
+          "kind": "measureWord"
+        },
+        {
+          "options": [
+            "得",
+            "的",
+            "地"
+          ],
+          "correctIndex": 1,
+          "kind": "particle"
+        }
+      ],
+      "pinyin": "zhè běn shū shì wǒ de.",
+      "meaning": "Quyển sách này là của tôi.",
+      "note": "Câu này có hai chỗ chọn: lượng từ 本 cho sách, và 的 chỉ sở hữu."
+    }
+  ],
   "strokeCharacters": [
     {
       "character": "一",
