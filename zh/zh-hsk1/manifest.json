@@ -1,0 +1,444 @@
+{
+  "pack": "zh-hsk1",
+  "language": "chinese",
+  "speaker": "vivian",
+  "pace": 1.0,
+  "generatedAt": "2026-11-09T11:18:45Z",
+  "clips": {
+    "word:你好": {
+      "file": "word-83719146.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:谢谢": {
+      "file": "word-e1cb15df.mp3",
+      "durationMs": 720,
+      "bytes": 6380
+    },
+    "word:再见": {
+      "file": "word-6ed793d7.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "word:请": {
+      "file": "word-67ad1a12.mp3",
+      "durationMs": 720,
+      "bytes": 6380
+    },
+    "word:对不起": {
+      "file": "word-3c3b82eb.mp3",
+      "durationMs": 1840,
+      "bytes": 15404
+    },
+    "word:没关系": {
+      "file": "word-b2ddf477.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:是": {
+      "file": "word-ef44af99.mp3",
+      "durationMs": 880,
+      "bytes": 7724
+    },
+    "word:不": {
+      "file": "word-1c254b39.mp3",
+      "durationMs": 480,
+      "bytes": 4460
+    },
+    "word:妈妈": {
+      "file": "word-04090a83.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "word:爸爸": {
+      "file": "word-ae51bc48.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "word:哥哥": {
+      "file": "word-d0406b35.mp3",
+      "durationMs": 1600,
+      "bytes": 13484
+    },
+    "word:姐姐": {
+      "file": "word-f42fc9bc.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "word:弟弟": {
+      "file": "word-152b2839.mp3",
+      "durationMs": 480,
+      "bytes": 4460
+    },
+    "word:妹妹": {
+      "file": "word-b0ca8c4e.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:儿子": {
+      "file": "word-e6f946dc.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "word:女儿": {
+      "file": "word-75bacab0.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "word:一": {
+      "file": "word-5a0db3e4.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "word:二": {
+      "file": "word-ab187afe.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:三": {
+      "file": "word-1592c09b.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "word:四": {
+      "file": "word-bce3cb70.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "word:五": {
+      "file": "word-74827e99.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "word:六": {
+      "file": "word-61be2b21.mp3",
+      "durationMs": 400,
+      "bytes": 3884
+    },
+    "word:七": {
+      "file": "word-3240b85f.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "word:八": {
+      "file": "word-9f9eea3e.mp3",
+      "durationMs": 480,
+      "bytes": 4460
+    },
+    "word:九": {
+      "file": "word-aeabbdfb.mp3",
+      "durationMs": 640,
+      "bytes": 5804
+    },
+    "word:十": {
+      "file": "word-264686eb.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:老师": {
+      "file": "word-8e5db4ce.mp3",
+      "durationMs": 2400,
+      "bytes": 19820
+    },
+    "word:学生": {
+      "file": "word-f6b063dc.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "word:学校": {
+      "file": "word-624c8fb7.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "word:中文": {
+      "file": "word-d2cd8fd1.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:汉语": {
+      "file": "word-5987927f.mp3",
+      "durationMs": 880,
+      "bytes": 7724
+    },
+    "word:中国": {
+      "file": "word-324022f8.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "word:越南": {
+      "file": "word-1857baef.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "word:书": {
+      "file": "word-6d23d831.mp3",
+      "durationMs": 640,
+      "bytes": 5804
+    },
+    "word:笔": {
+      "file": "word-3c1ac058.mp3",
+      "durationMs": 480,
+      "bytes": 4460
+    },
+    "word:教室": {
+      "file": "word-35ecdd56.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:今天": {
+      "file": "word-22c881a0.mp3",
+      "durationMs": 720,
+      "bytes": 6380
+    },
+    "word:明天": {
+      "file": "word-c9377af1.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "word:昨天": {
+      "file": "word-75e4094d.mp3",
+      "durationMs": 640,
+      "bytes": 5804
+    },
+    "word:早上": {
+      "file": "word-47aed152.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "word:中午": {
+      "file": "word-601647ba.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "word:下午": {
+      "file": "word-2c5f0543.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:晚上": {
+      "file": "word-e4efbc09.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:年": {
+      "file": "word-589cb86c.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "word:月": {
+      "file": "word-b10b803d.mp3",
+      "durationMs": 640,
+      "bytes": 5804
+    },
+    "word:日": {
+      "file": "word-24107a2c.mp3",
+      "durationMs": 7680,
+      "bytes": 62060
+    },
+    "word:米饭": {
+      "file": "word-f64a338d.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "word:面条": {
+      "file": "word-88fb5901.mp3",
+      "durationMs": 720,
+      "bytes": 6380
+    },
+    "word:包子": {
+      "file": "word-1159d69d.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "word:鸡蛋": {
+      "file": "word-488a3357.mp3",
+      "durationMs": 880,
+      "bytes": 7724
+    },
+    "word:牛奶": {
+      "file": "word-dce8a2a2.mp3",
+      "durationMs": 880,
+      "bytes": 7724
+    },
+    "word:苹果": {
+      "file": "word-e54a76fa.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "word:茶": {
+      "file": "word-c88b6343.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "word:水": {
+      "file": "word-ec9feb80.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "word:吃": {
+      "file": "word-cb274685.mp3",
+      "durationMs": 880,
+      "bytes": 7724
+    },
+    "word:喝": {
+      "file": "word-bf404628.mp3",
+      "durationMs": 15200,
+      "bytes": 122348
+    },
+    "word:看": {
+      "file": "word-9d14b5b9.mp3",
+      "durationMs": 880,
+      "bytes": 7724
+    },
+    "word:听": {
+      "file": "word-c68a9635.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "word:说": {
+      "file": "word-164278ef.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "word:学": {
+      "file": "word-b0ce77e4.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "word:去": {
+      "file": "word-ea0177d7.mp3",
+      "durationMs": 480,
+      "bytes": 4460
+    },
+    "word:来": {
+      "file": "word-48591829.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "word:有": {
+      "file": "word-9e1cd412.mp3",
+      "durationMs": 640,
+      "bytes": 5804
+    },
+    "sentence:你好！": {
+      "file": "sentence-4f96716d.mp3",
+      "durationMs": 640,
+      "bytes": 5804
+    },
+    "sentence:谢谢你。": {
+      "file": "sentence-a7c05451.mp3",
+      "durationMs": 720,
+      "bytes": 6380
+    },
+    "sentence:我是学生。": {
+      "file": "sentence-54c32f6c.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "sentence:他不是老师。": {
+      "file": "sentence-01cbb6c0.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "sentence:她是中国人。": {
+      "file": "sentence-e8529ead.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "sentence:我有两个哥哥。": {
+      "file": "sentence-a23f8ea4.mp3",
+      "durationMs": 1520,
+      "bytes": 12908
+    },
+    "sentence:这是我的书。": {
+      "file": "sentence-6aa4c7b7.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "sentence:今天天气很好。": {
+      "file": "sentence-18f3a8bc.mp3",
+      "durationMs": 1520,
+      "bytes": 12908
+    },
+    "sentence:我早上七点起床。": {
+      "file": "sentence-ecbb9adb.mp3",
+      "durationMs": 1840,
+      "bytes": 15404
+    },
+    "sentence:我们一起学汉语。": {
+      "file": "sentence-118f5589.mp3",
+      "durationMs": 2000,
+      "bytes": 16748
+    },
+    "sentence:你喜欢喝茶吗？": {
+      "file": "sentence-daeb1b3d.mp3",
+      "durationMs": 1360,
+      "bytes": 11564
+    },
+    "sentence:我吃米饭。": {
+      "file": "sentence-09ab4b5c.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "sentence:妈妈在教室。": {
+      "file": "sentence-d9ce29fd.mp3",
+      "durationMs": 1440,
+      "bytes": 12140
+    },
+    "sentence:老师很好。": {
+      "file": "sentence-39291f62.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "sentence:明天见！": {
+      "file": "sentence-a82708af.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "sentence:对不起，我不知道。": {
+      "file": "sentence-db8244bc.mp3",
+      "durationMs": 2320,
+      "bytes": 19244
+    },
+    "sentence:没关系。": {
+      "file": "sentence-cc1d3de0.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "sentence:你叫什么名字？": {
+      "file": "sentence-9526a3d0.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "sentence:我叫小明。": {
+      "file": "sentence-cf75d631.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "sentence:他在家。": {
+      "file": "sentence-538f2534.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "sentence:我们去学校吧。": {
+      "file": "sentence-719b31f9.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "sentence:这本书很有意思。": {
+      "file": "sentence-09381c63.mp3",
+      "durationMs": 1680,
+      "bytes": 14060
+    },
+    "sentence:我来北京。": {
+      "file": "sentence-1e572c79.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "sentence:谢谢你的苹果。": {
+      "file": "sentence-74373e13.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    }
+  }
+}
