@@ -1,0 +1,1096 @@
+{
+  "format": "edutalk-game-content/1",
+  "pack": "zh-hsk1",
+  "level": "hsk1",
+  "topics": [
+    {
+      "id": "greetings",
+      "words": [
+        {
+          "hanzi": "你好",
+          "pinyin": "nǐ hǎo",
+          "meaning": "xin chào",
+          "topicId": "greetings"
+        },
+        {
+          "hanzi": "谢谢",
+          "pinyin": "xièxie",
+          "meaning": "cảm ơn",
+          "topicId": "greetings"
+        },
+        {
+          "hanzi": "再见",
+          "pinyin": "zàijiàn",
+          "meaning": "tạm biệt",
+          "topicId": "greetings"
+        },
+        {
+          "hanzi": "请",
+          "pinyin": "qǐng",
+          "meaning": "xin mời",
+          "topicId": "greetings"
+        },
+        {
+          "hanzi": "对不起",
+          "pinyin": "duìbuqǐ",
+          "meaning": "xin lỗi",
+          "topicId": "greetings"
+        },
+        {
+          "hanzi": "没关系",
+          "pinyin": "méi guānxi",
+          "meaning": "không sao",
+          "topicId": "greetings"
+        },
+        {
+          "hanzi": "是",
+          "pinyin": "shì",
+          "meaning": "là / đúng",
+          "topicId": "greetings"
+        },
+        {
+          "hanzi": "不",
+          "pinyin": "bù",
+          "meaning": "không",
+          "topicId": "greetings"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "words": [
+        {
+          "hanzi": "妈妈",
+          "pinyin": "māma",
+          "meaning": "mẹ",
+          "topicId": "family"
+        },
+        {
+          "hanzi": "爸爸",
+          "pinyin": "bàba",
+          "meaning": "bố",
+          "topicId": "family"
+        },
+        {
+          "hanzi": "哥哥",
+          "pinyin": "gēge",
+          "meaning": "anh trai",
+          "topicId": "family"
+        },
+        {
+          "hanzi": "姐姐",
+          "pinyin": "jiějie",
+          "meaning": "chị gái",
+          "topicId": "family"
+        },
+        {
+          "hanzi": "弟弟",
+          "pinyin": "dìdi",
+          "meaning": "em trai",
+          "topicId": "family"
+        },
+        {
+          "hanzi": "妹妹",
+          "pinyin": "mèimei",
+          "meaning": "em gái",
+          "topicId": "family"
+        },
+        {
+          "hanzi": "儿子",
+          "pinyin": "érzi",
+          "meaning": "con trai",
+          "topicId": "family"
+        },
+        {
+          "hanzi": "女儿",
+          "pinyin": "nǚ’ér",
+          "meaning": "con gái",
+          "topicId": "family"
+        }
+      ]
+    },
+    {
+      "id": "numbers",
+      "words": [
+        {
+          "hanzi": "一",
+          "pinyin": "yī",
+          "meaning": "một",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "二",
+          "pinyin": "èr",
+          "meaning": "hai",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "三",
+          "pinyin": "sān",
+          "meaning": "ba",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "四",
+          "pinyin": "sì",
+          "meaning": "bốn",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "五",
+          "pinyin": "wǔ",
+          "meaning": "năm",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "六",
+          "pinyin": "liù",
+          "meaning": "sáu",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "七",
+          "pinyin": "qī",
+          "meaning": "bảy",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "八",
+          "pinyin": "bā",
+          "meaning": "tám",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "九",
+          "pinyin": "jiǔ",
+          "meaning": "chín",
+          "topicId": "numbers"
+        },
+        {
+          "hanzi": "十",
+          "pinyin": "shí",
+          "meaning": "mười",
+          "topicId": "numbers"
+        }
+      ]
+    },
+    {
+      "id": "school",
+      "words": [
+        {
+          "hanzi": "老师",
+          "pinyin": "lǎoshī",
+          "meaning": "giáo viên",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "学生",
+          "pinyin": "xuésheng",
+          "meaning": "học sinh",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "学校",
+          "pinyin": "xuéxiào",
+          "meaning": "trường học",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "中文",
+          "pinyin": "Zhōngwén",
+          "meaning": "tiếng Trung",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "汉语",
+          "pinyin": "Hànyǔ",
+          "meaning": "Hán ngữ",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "中国",
+          "pinyin": "Zhōngguó",
+          "meaning": "Trung Quốc",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "越南",
+          "pinyin": "Yuènán",
+          "meaning": "Việt Nam",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "书",
+          "pinyin": "shū",
+          "meaning": "sách",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "笔",
+          "pinyin": "bǐ",
+          "meaning": "bút",
+          "topicId": "school"
+        },
+        {
+          "hanzi": "教室",
+          "pinyin": "jiàoshì",
+          "meaning": "lớp học",
+          "topicId": "school"
+        }
+      ]
+    },
+    {
+      "id": "time",
+      "words": [
+        {
+          "hanzi": "今天",
+          "pinyin": "jīntiān",
+          "meaning": "hôm nay",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "明天",
+          "pinyin": "míngtiān",
+          "meaning": "ngày mai",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "昨天",
+          "pinyin": "zuótiān",
+          "meaning": "hôm qua",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "早上",
+          "pinyin": "zǎoshang",
+          "meaning": "buổi sáng",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "中午",
+          "pinyin": "zhōngwǔ",
+          "meaning": "buổi trưa",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "下午",
+          "pinyin": "xiàwǔ",
+          "meaning": "buổi chiều",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "晚上",
+          "pinyin": "wǎnshang",
+          "meaning": "buổi tối",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "年",
+          "pinyin": "nián",
+          "meaning": "năm",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "月",
+          "pinyin": "yuè",
+          "meaning": "tháng",
+          "topicId": "time"
+        },
+        {
+          "hanzi": "日",
+          "pinyin": "rì",
+          "meaning": "ngày",
+          "topicId": "time"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "words": [
+        {
+          "hanzi": "米饭",
+          "pinyin": "mǐfàn",
+          "meaning": "cơm",
+          "topicId": "food"
+        },
+        {
+          "hanzi": "面条",
+          "pinyin": "miàntiáo",
+          "meaning": "mì",
+          "topicId": "food"
+        },
+        {
+          "hanzi": "包子",
+          "pinyin": "bāozi",
+          "meaning": "bánh bao",
+          "topicId": "food"
+        },
+        {
+          "hanzi": "鸡蛋",
+          "pinyin": "jīdàn",
+          "meaning": "trứng gà",
+          "topicId": "food"
+        },
+        {
+          "hanzi": "牛奶",
+          "pinyin": "niúnǎi",
+          "meaning": "sữa bò",
+          "topicId": "food"
+        },
+        {
+          "hanzi": "苹果",
+          "pinyin": "píngguǒ",
+          "meaning": "quả táo",
+          "topicId": "food"
+        },
+        {
+          "hanzi": "茶",
+          "pinyin": "chá",
+          "meaning": "trà",
+          "topicId": "food"
+        },
+        {
+          "hanzi": "水",
+          "pinyin": "shuǐ",
+          "meaning": "nước",
+          "topicId": "food"
+        }
+      ]
+    },
+    {
+      "id": "verbs",
+      "words": [
+        {
+          "hanzi": "吃",
+          "pinyin": "chī",
+          "meaning": "ăn",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "喝",
+          "pinyin": "hē",
+          "meaning": "uống",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "看",
+          "pinyin": "kàn",
+          "meaning": "xem / nhìn",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "听",
+          "pinyin": "tīng",
+          "meaning": "nghe",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "说",
+          "pinyin": "shuō",
+          "meaning": "nói",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "学",
+          "pinyin": "xué",
+          "meaning": "học",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "去",
+          "pinyin": "qù",
+          "meaning": "đi",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "来",
+          "pinyin": "lái",
+          "meaning": "đến",
+          "topicId": "verbs"
+        },
+        {
+          "hanzi": "有",
+          "pinyin": "yǒu",
+          "meaning": "có",
+          "topicId": "verbs"
+        }
+      ]
+    }
+  ],
+  "sentences": [
+    {
+      "hanzi": "你好！",
+      "pinyin": "nǐ hǎo!",
+      "meaning": "Xin chào!"
+    },
+    {
+      "hanzi": "谢谢你。",
+      "pinyin": "xièxie nǐ.",
+      "meaning": "Cảm ơn bạn."
+    },
+    {
+      "hanzi": "我是学生。",
+      "pinyin": "wǒ shì xuésheng.",
+      "meaning": "Tôi là học sinh."
+    },
+    {
+      "hanzi": "他不是老师。",
+      "pinyin": "tā bú shì lǎoshī.",
+      "meaning": "Anh ấy không phải giáo viên."
+    },
+    {
+      "hanzi": "她是中国人。",
+      "pinyin": "tā shì Zhōngguó rén.",
+      "meaning": "Cô ấy là người Trung Quốc."
+    },
+    {
+      "hanzi": "我有两个哥哥。",
+      "pinyin": "wǒ yǒu liǎng ge gēge.",
+      "meaning": "Tôi có hai anh trai."
+    },
+    {
+      "hanzi": "这是我的书。",
+      "pinyin": "zhè shì wǒ de shū.",
+      "meaning": "Đây là sách của tôi."
+    },
+    {
+      "hanzi": "今天天气很好。",
+      "pinyin": "jīntiān tiānqì hěn hǎo.",
+      "meaning": "Hôm nay thời tiết rất đẹp."
+    },
+    {
+      "hanzi": "我早上七点起床。",
+      "pinyin": "wǒ zǎoshang qī diǎn qǐchuáng.",
+      "meaning": "Tôi thức dậy lúc bảy giờ sáng."
+    },
+    {
+      "hanzi": "我们一起学汉语。",
+      "pinyin": "wǒmen yìqǐ xué Hànyǔ.",
+      "meaning": "Chúng ta cùng học tiếng Trung."
+    },
+    {
+      "hanzi": "你喜欢喝茶吗？",
+      "pinyin": "nǐ xǐhuan hē chá ma?",
+      "meaning": "Bạn có thích uống trà không?"
+    },
+    {
+      "hanzi": "我吃米饭。",
+      "pinyin": "wǒ chī mǐfàn.",
+      "meaning": "Tôi ăn cơm."
+    },
+    {
+      "hanzi": "妈妈在教室。",
+      "pinyin": "māma zài jiàoshì.",
+      "meaning": "Mẹ đang ở lớp học."
+    },
+    {
+      "hanzi": "老师很好。",
+      "pinyin": "lǎoshī hěn hǎo.",
+      "meaning": "Giáo viên rất tốt."
+    },
+    {
+      "hanzi": "明天见！",
+      "pinyin": "míngtiān jiàn!",
+      "meaning": "Hẹn gặp ngày mai!"
+    },
+    {
+      "hanzi": "对不起，我不知道。",
+      "pinyin": "duìbuqǐ, wǒ bù zhīdào.",
+      "meaning": "Xin lỗi, tôi không biết."
+    },
+    {
+      "hanzi": "没关系。",
+      "pinyin": "méi guānxi.",
+      "meaning": "Không sao đâu."
+    },
+    {
+      "hanzi": "你叫什么名字？",
+      "pinyin": "nǐ jiào shénme míngzi?",
+      "meaning": "Bạn tên là gì?"
+    },
+    {
+      "hanzi": "我叫小明。",
+      "pinyin": "wǒ jiào Xiǎomíng.",
+      "meaning": "Tôi tên là Tiểu Minh."
+    },
+    {
+      "hanzi": "他在家。",
+      "pinyin": "tā zài jiā.",
+      "meaning": "Anh ấy ở nhà."
+    },
+    {
+      "hanzi": "我们去学校吧。",
+      "pinyin": "wǒmen qù xuéxiào ba.",
+      "meaning": "Chúng ta đến trường nhé."
+    },
+    {
+      "hanzi": "这本书很有意思。",
+      "pinyin": "zhè běn shū hěn yǒu yìsi.",
+      "meaning": "Cuốn sách này rất thú vị."
+    },
+    {
+      "hanzi": "我来北京。",
+      "pinyin": "wǒ lái Běijīng.",
+      "meaning": "Tôi đến Bắc Kinh."
+    },
+    {
+      "hanzi": "谢谢你的苹果。",
+      "pinyin": "xièxie nǐ de píngguǒ.",
+      "meaning": "Cảm ơn bạn vì quả táo."
+    }
+  ],
+  "radicals": [
+    {
+      "radical": "人",
+      "pinyin": "rén",
+      "meaning": "người"
+    },
+    {
+      "radical": "口",
+      "pinyin": "kǒu",
+      "meaning": "miệng"
+    },
+    {
+      "radical": "日",
+      "pinyin": "rì",
+      "meaning": "mặt trời / ngày"
+    },
+    {
+      "radical": "月",
+      "pinyin": "yuè",
+      "meaning": "mặt trăng / tháng"
+    },
+    {
+      "radical": "木",
+      "pinyin": "mù",
+      "meaning": "cây / gỗ"
+    },
+    {
+      "radical": "氵",
+      "pinyin": "shuǐ",
+      "meaning": "nước"
+    },
+    {
+      "radical": "火",
+      "pinyin": "huǒ",
+      "meaning": "lửa"
+    },
+    {
+      "radical": "山",
+      "pinyin": "shān",
+      "meaning": "núi"
+    },
+    {
+      "radical": "女",
+      "pinyin": "nǚ",
+      "meaning": "nữ / phụ nữ"
+    },
+    {
+      "radical": "子",
+      "pinyin": "zǐ",
+      "meaning": "con / trẻ nhỏ"
+    },
+    {
+      "radical": "心",
+      "pinyin": "xīn",
+      "meaning": "trái tim"
+    },
+    {
+      "radical": "手",
+      "pinyin": "shǒu",
+      "meaning": "bàn tay"
+    },
+    {
+      "radical": "目",
+      "pinyin": "mù",
+      "meaning": "con mắt"
+    },
+    {
+      "radical": "耳",
+      "pinyin": "ěr",
+      "meaning": "tai"
+    },
+    {
+      "radical": "大",
+      "pinyin": "dà",
+      "meaning": "to / lớn"
+    },
+    {
+      "radical": "小",
+      "pinyin": "xiǎo",
+      "meaning": "nhỏ / bé"
+    }
+  ],
+  "dialogues": [
+    {
+      "id": "home_where_subway",
+      "placeId": "home",
+      "speaker": "👩",
+      "prompt": "你好！地铁站在哪里？",
+      "promptPinyin": "nǐ hǎo! dìtiě zhàn zài nǎli?",
+      "promptMeaning": "Xin chào! Ga tàu điện ngầm ở đâu?",
+      "options": [
+        {
+          "hanzi": "在银行旁边。",
+          "pinyin": "zài yínháng pángbiān.",
+          "meaning": "Ở cạnh ngân hàng."
+        },
+        {
+          "hanzi": "我喜欢苹果。",
+          "pinyin": "wǒ xǐhuan píngguǒ.",
+          "meaning": "Tôi thích táo."
+        },
+        {
+          "hanzi": "我是学生。",
+          "pinyin": "wǒ shì xuésheng.",
+          "meaning": "Tôi là học sinh."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "在哪里 hỏi vị trí, trả lời bằng 在 + địa điểm."
+    },
+    {
+      "id": "home_ate_yet",
+      "placeId": "home",
+      "speaker": "👩",
+      "prompt": "你吃饭了吗？",
+      "promptPinyin": "nǐ chīfàn le ma?",
+      "promptMeaning": "Bạn ăn cơm chưa?",
+      "options": [
+        {
+          "hanzi": "我吃过了，谢谢。",
+          "pinyin": "wǒ chī guò le, xièxie.",
+          "meaning": "Tôi ăn rồi, cảm ơn."
+        },
+        {
+          "hanzi": "他去学校了。",
+          "pinyin": "tā qù xuéxiào le.",
+          "meaning": "Anh ấy đến trường rồi."
+        },
+        {
+          "hanzi": "这是我的书。",
+          "pinyin": "zhè shì wǒ de shū.",
+          "meaning": "Đây là sách của tôi."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "Câu hỏi 了吗 hỏi việc đã xảy ra chưa; trả lời 吃过了 = đã ăn rồi."
+    },
+    {
+      "id": "subway_how_to_school",
+      "placeId": "subway",
+      "speaker": "🧑‍🎓",
+      "prompt": "请问，去学校怎么走？",
+      "promptPinyin": "qǐngwèn, qù xuéxiào zěnme zǒu?",
+      "promptMeaning": "Xin hỏi, đến trường đi thế nào?",
+      "options": [
+        {
+          "hanzi": "坐地铁二号线。",
+          "pinyin": "zuò dìtiě èr hào xiàn.",
+          "meaning": "Đi tàu điện tuyến số 2."
+        },
+        {
+          "hanzi": "我今年二十岁。",
+          "pinyin": "wǒ jīnnián èrshí suì.",
+          "meaning": "Năm nay tôi hai mươi tuổi."
+        },
+        {
+          "hanzi": "这个苹果很大。",
+          "pinyin": "zhège píngguǒ hěn dà.",
+          "meaning": "Quả táo này rất to."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "怎么走 hỏi đường; trả lời 坐 + phương tiện."
+    },
+    {
+      "id": "subway_where_going",
+      "placeId": "subway",
+      "speaker": "🧑‍✈️",
+      "prompt": "你要去哪儿？",
+      "promptPinyin": "nǐ yào qù nǎr?",
+      "promptMeaning": "Bạn muốn đi đâu?",
+      "options": [
+        {
+          "hanzi": "我要去学校。",
+          "pinyin": "wǒ yào qù xuéxiào.",
+          "meaning": "Tôi muốn đến trường."
+        },
+        {
+          "hanzi": "我要三个苹果。",
+          "pinyin": "wǒ yào sān ge píngguǒ.",
+          "meaning": "Tôi muốn ba quả táo."
+        },
+        {
+          "hanzi": "我喜欢喝茶。",
+          "pinyin": "wǒ xǐhuan hē chá.",
+          "meaning": "Tôi thích uống trà."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "去哪儿 hỏi điểm đến; 去 + địa điểm."
+    },
+    {
+      "id": "school_are_you_student",
+      "placeId": "school",
+      "speaker": "👩‍🏫",
+      "prompt": "你是学生吗？",
+      "promptPinyin": "nǐ shì xuésheng ma?",
+      "promptMeaning": "Bạn là học sinh phải không?",
+      "options": [
+        {
+          "hanzi": "是，我是学生。",
+          "pinyin": "shì, wǒ shì xuésheng.",
+          "meaning": "Vâng, tôi là học sinh."
+        },
+        {
+          "hanzi": "谢谢，再见。",
+          "pinyin": "xièxie, zàijiàn.",
+          "meaning": "Cảm ơn, tạm biệt."
+        },
+        {
+          "hanzi": "地铁站在那边。",
+          "pinyin": "dìtiě zhàn zài nàbiān.",
+          "meaning": "Ga tàu điện ở phía kia."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "Câu hỏi 吗 trả lời 是 / 不是."
+    },
+    {
+      "id": "school_hanyu_class",
+      "placeId": "school",
+      "speaker": "🙋",
+      "prompt": "今天有汉语课吗？",
+      "promptPinyin": "jīntiān yǒu Hànyǔ kè ma?",
+      "promptMeaning": "Hôm nay có tiết Hán ngữ không?",
+      "options": [
+        {
+          "hanzi": "有，早上八点。",
+          "pinyin": "yǒu, zǎoshang bā diǎn.",
+          "meaning": "Có, tám giờ sáng."
+        },
+        {
+          "hanzi": "我没有钱。",
+          "pinyin": "wǒ méiyǒu qián.",
+          "meaning": "Tôi không có tiền."
+        },
+        {
+          "hanzi": "他是老师。",
+          "pinyin": "tā shì lǎoshī.",
+          "meaning": "Anh ấy là giáo viên."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "有 / 没有 dùng để trả lời câu hỏi có–không."
+    },
+    {
+      "id": "restaurant_what_to_eat",
+      "placeId": "restaurant",
+      "speaker": "👨‍🍳",
+      "prompt": "欢迎！您要吃什么？",
+      "promptPinyin": "huānyíng! nín yào chī shénme?",
+      "promptMeaning": "Chào mừng! Bạn muốn ăn gì?",
+      "options": [
+        {
+          "hanzi": "我要一碗牛肉面。",
+          "pinyin": "wǒ yào yì wǎn niúròu miàn.",
+          "meaning": "Tôi muốn một bát mì bò."
+        },
+        {
+          "hanzi": "我要去中国。",
+          "pinyin": "wǒ yào qù Zhōngguó.",
+          "meaning": "Tôi muốn đi Trung Quốc."
+        },
+        {
+          "hanzi": "这是我的笔。",
+          "pinyin": "zhè shì wǒ de bǐ.",
+          "meaning": "Đây là bút của tôi."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "吃什么 hỏi món ăn; trả lời 我要 + món."
+    },
+    {
+      "id": "restaurant_what_to_drink",
+      "placeId": "restaurant",
+      "speaker": "👨‍🍳",
+      "prompt": "您要喝什么？",
+      "promptPinyin": "nín yào hē shénme?",
+      "promptMeaning": "Bạn muốn uống gì?",
+      "options": [
+        {
+          "hanzi": "请给我一杯茶。",
+          "pinyin": "qǐng gěi wǒ yì bēi chá.",
+          "meaning": "Cho tôi một ly trà."
+        },
+        {
+          "hanzi": "我住在学校。",
+          "pinyin": "wǒ zhù zài xuéxiào.",
+          "meaning": "Tôi sống ở trường."
+        },
+        {
+          "hanzi": "今天很好。",
+          "pinyin": "jīntiān hěn hǎo.",
+          "meaning": "Hôm nay rất tốt."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "喝什么 hỏi đồ uống; 一杯 = một ly."
+    },
+    {
+      "id": "shop_apple_price",
+      "placeId": "shop",
+      "speaker": "🧑‍🌾",
+      "prompt": "苹果多少钱？",
+      "promptPinyin": "píngguǒ duōshao qián?",
+      "promptMeaning": "Táo bao nhiêu tiền?",
+      "options": [
+        {
+          "hanzi": "五块一个。",
+          "pinyin": "wǔ kuài yí ge.",
+          "meaning": "Năm tệ một quả."
+        },
+        {
+          "hanzi": "我叫小明。",
+          "pinyin": "wǒ jiào Xiǎomíng.",
+          "meaning": "Tôi tên Tiểu Minh."
+        },
+        {
+          "hanzi": "在学校旁边。",
+          "pinyin": "zài xuéxiào pángbiān.",
+          "meaning": "Ở cạnh trường học."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "多少钱 hỏi giá; 块 là đơn vị tiền tệ."
+    },
+    {
+      "id": "shop_how_many",
+      "placeId": "shop",
+      "speaker": "🧑‍🌾",
+      "prompt": "你要买几个？",
+      "promptPinyin": "nǐ yào mǎi jǐ ge?",
+      "promptMeaning": "Bạn muốn mua mấy cái?",
+      "options": [
+        {
+          "hanzi": "我要买三个。",
+          "pinyin": "wǒ yào mǎi sān ge.",
+          "meaning": "Tôi muốn mua ba cái."
+        },
+        {
+          "hanzi": "我晚上去。",
+          "pinyin": "wǒ wǎnshang qù.",
+          "meaning": "Tối tôi đi."
+        },
+        {
+          "hanzi": "他是我的哥哥。",
+          "pinyin": "tā shì wǒ de gēge.",
+          "meaning": "Anh ấy là anh trai tôi."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "几个 hỏi số lượng; 个 là lượng từ chung."
+    },
+    {
+      "id": "shop_anything_else",
+      "placeId": "shop",
+      "speaker": "🧑‍🌾",
+      "prompt": "还要别的吗？",
+      "promptPinyin": "hái yào biéde ma?",
+      "promptMeaning": "Còn muốn gì nữa không?",
+      "options": [
+        {
+          "hanzi": "不要了，谢谢。",
+          "pinyin": "bú yào le, xièxie.",
+          "meaning": "Không cần nữa, cảm ơn."
+        },
+        {
+          "hanzi": "我是越南人。",
+          "pinyin": "wǒ shì Yuènán rén.",
+          "meaning": "Tôi là người Việt Nam."
+        },
+        {
+          "hanzi": "对不起，我不知道。",
+          "pinyin": "duìbuqǐ, wǒ bù zhīdào.",
+          "meaning": "Xin lỗi, tôi không biết."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "不要了 là cách nói lịch sự khi không cần thêm."
+    },
+    {
+      "id": "shop_total_price",
+      "placeId": "shop",
+      "speaker": "🧑‍🌾",
+      "prompt": "一共二十八块。",
+      "promptPinyin": "yígòng èrshíbā kuài.",
+      "promptMeaning": "Tổng cộng hai mươi tám tệ.",
+      "options": [
+        {
+          "hanzi": "好的，给你钱。",
+          "pinyin": "hǎo de, gěi nǐ qián.",
+          "meaning": "Được, gửi bạn tiền."
+        },
+        {
+          "hanzi": "我不喝茶。",
+          "pinyin": "wǒ bù hē chá.",
+          "meaning": "Tôi không uống trà."
+        },
+        {
+          "hanzi": "明天见。",
+          "pinyin": "míngtiān jiàn.",
+          "meaning": "Hẹn gặp ngày mai."
+        }
+      ],
+      "correctIndex": 0,
+      "tip": "一共 = tổng cộng; 二十八 = 28."
+    }
+  ],
+  "confusables": [
+    {
+      "first": "日",
+      "second": "曰",
+      "pinyinFirst": "rì",
+      "pinyinSecond": "yuē",
+      "meaningFirst": "ngày / mặt trời",
+      "meaningSecond": "nói rằng"
+    },
+    {
+      "first": "人",
+      "second": "入",
+      "pinyinFirst": "rén",
+      "pinyinSecond": "rù",
+      "meaningFirst": "người",
+      "meaningSecond": "vào"
+    },
+    {
+      "first": "大",
+      "second": "太",
+      "pinyinFirst": "dà",
+      "pinyinSecond": "tài",
+      "meaningFirst": "to / lớn",
+      "meaningSecond": "quá / rất"
+    },
+    {
+      "first": "木",
+      "second": "本",
+      "pinyinFirst": "mù",
+      "pinyinSecond": "běn",
+      "meaningFirst": "cây / gỗ",
+      "meaningSecond": "gốc / quyển"
+    },
+    {
+      "first": "千",
+      "second": "干",
+      "pinyinFirst": "qiān",
+      "pinyinSecond": "gān",
+      "meaningFirst": "nghìn",
+      "meaningSecond": "khô / làm"
+    },
+    {
+      "first": "土",
+      "second": "士",
+      "pinyinFirst": "tǔ",
+      "pinyinSecond": "shì",
+      "meaningFirst": "đất",
+      "meaningSecond": "sĩ / học sĩ"
+    },
+    {
+      "first": "天",
+      "second": "夫",
+      "pinyinFirst": "tiān",
+      "pinyinSecond": "fū",
+      "meaningFirst": "trời",
+      "meaningSecond": "chồng"
+    },
+    {
+      "first": "己",
+      "second": "已",
+      "pinyinFirst": "jǐ",
+      "pinyinSecond": "yǐ",
+      "meaningFirst": "mình / bản thân",
+      "meaningSecond": "đã rồi"
+    },
+    {
+      "first": "未",
+      "second": "末",
+      "pinyinFirst": "wèi",
+      "pinyinSecond": "mò",
+      "meaningFirst": "chưa",
+      "meaningSecond": "cuối / ngọn"
+    },
+    {
+      "first": "王",
+      "second": "主",
+      "pinyinFirst": "wáng",
+      "pinyinSecond": "zhǔ",
+      "meaningFirst": "vua",
+      "meaningSecond": "chủ / chính"
+    },
+    {
+      "first": "白",
+      "second": "百",
+      "pinyinFirst": "bái",
+      "pinyinSecond": "bǎi",
+      "meaningFirst": "trắng",
+      "meaningSecond": "trăm"
+    },
+    {
+      "first": "目",
+      "second": "自",
+      "pinyinFirst": "mù",
+      "pinyinSecond": "zì",
+      "meaningFirst": "mắt",
+      "meaningSecond": "tự / mình"
+    },
+    {
+      "first": "力",
+      "second": "刀",
+      "pinyinFirst": "lì",
+      "pinyinSecond": "dāo",
+      "meaningFirst": "sức lực",
+      "meaningSecond": "con dao"
+    },
+    {
+      "first": "午",
+      "second": "牛",
+      "pinyinFirst": "wǔ",
+      "pinyinSecond": "niú",
+      "meaningFirst": "buổi trưa",
+      "meaningSecond": "con bò"
+    },
+    {
+      "first": "乌",
+      "second": "鸟",
+      "pinyinFirst": "wū",
+      "pinyinSecond": "niǎo",
+      "meaningFirst": "đen / con quạ",
+      "meaningSecond": "con chim"
+    },
+    {
+      "first": "米",
+      "second": "来",
+      "pinyinFirst": "mǐ",
+      "pinyinSecond": "lái",
+      "meaningFirst": "gạo",
+      "meaningSecond": "đến"
+    },
+    {
+      "first": "田",
+      "second": "电",
+      "pinyinFirst": "tián",
+      "pinyinSecond": "diàn",
+      "meaningFirst": "ruộng",
+      "meaningSecond": "điện"
+    },
+    {
+      "first": "手",
+      "second": "毛",
+      "pinyinFirst": "shǒu",
+      "pinyinSecond": "máo",
+      "meaningFirst": "bàn tay",
+      "meaningSecond": "lông / tóc"
+    }
+  ]
+}
