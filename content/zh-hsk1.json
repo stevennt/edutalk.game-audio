@@ -950,6 +950,131 @@
       "tip": "一共 = tổng cộng; 二十八 = 28."
     }
   ],
+  "passages": [
+    {
+      "id": "school_day",
+      "level": "hsk1",
+      "title": "我在学校的一天",
+      "hanzi": "我叫小明，我是学生。我每天早上七点起床，八点去学校。学校很大，有很多学生和老师。我喜欢学汉语，我的老师很好，她常常帮助我们。下午四点我回家，晚上我做作业。",
+      "questions": [
+        {
+          "kind": "gist",
+          "prompt": "这段话主要说什么？",
+          "options": [
+            "小明的学校生活",
+            "小明的家庭",
+            "北京的天气",
+            "买东西"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "kind": "detail",
+          "prompt": "小明几点起床？",
+          "options": [
+            "六点",
+            "七点",
+            "八点",
+            "四点"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "kind": "inference",
+          "prompt": "小明觉得他的老师怎么样？",
+          "options": [
+            "很好，常常帮助人",
+            "很严格",
+            "不认识他",
+            "不在学校"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "birthday",
+      "level": "hsk1",
+      "title": "我的生日",
+      "hanzi": "今天是我的生日。妈妈做了很多好吃的菜，有米饭、鸡肉和鱼。爸爸买了一个大蛋糕。晚上七点，我们全家一起吃饭。哥哥从北京打来电话，他说祝我生日快乐。我很高兴。",
+      "questions": [
+        {
+          "kind": "gist",
+          "prompt": "今天是什么日子？",
+          "options": [
+            "我的生日",
+            "中秋节",
+            "哥哥的生日",
+            "周末"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "kind": "detail",
+          "prompt": "爸爸买了什么？",
+          "options": [
+            "一个蛋糕",
+            "鸡肉",
+            "一个苹果",
+            "茶"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "kind": "inference",
+          "prompt": "哥哥在哪里？",
+          "options": [
+            "在家里",
+            "在北京",
+            "在学校",
+            "在饭馆"
+          ],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "id": "shanghai_trip",
+      "level": "hsk2",
+      "title": "上海的两天",
+      "hanzi": "上个月我和朋友去了上海。我们坐地铁去外滩，那里人很多。天气不太好，下午下雨了，所以我们没有去公园。晚上我们在一家小饭馆吃面条，很好吃，也不贵。下次我想再去上海。",
+      "questions": [
+        {
+          "kind": "gist",
+          "prompt": "这段话主要说什么？",
+          "options": [
+            "一次上海旅行",
+            "怎么坐地铁",
+            "北京的天气",
+            "怎么做面条"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "kind": "detail",
+          "prompt": "他们为什么没有去公园？",
+          "options": [
+            "因为下雨了",
+            "因为没有时间",
+            "因为人太多",
+            "因为公园关了"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "kind": "inference",
+          "prompt": "他觉得这次旅行怎么样？",
+          "options": [
+            "还想再去",
+            "不想再去了",
+            "太贵了",
+            "没有意思"
+          ],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ],
   "pictures": [
     {
       "id": "school",
