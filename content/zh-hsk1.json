@@ -950,6 +950,60 @@
       "tip": "一共 = tổng cộng; 二十八 = 28."
     }
   ],
+  "idioms": [
+    {
+      "idiom": "一举两得",
+      "pinyin": "yī jǔ liǎng dé",
+      "meaning": "Một việc mà được hai lợi ích",
+      "situation": "Bạn đi tập thể dục bằng cách đạp xe đến chỗ làm: vừa khoẻ vừa tiết kiệm tiền xe.",
+      "example": "骑车上班一举两得，既锻炼身体又省钱。"
+    },
+    {
+      "idiom": "一举成名",
+      "pinyin": "yī jǔ chéng míng",
+      "meaning": "Một lần mà nổi tiếng ngay",
+      "situation": "Một bạn trẻ thi hát lần đầu và được cả nước biết đến.",
+      "example": "她第一次上台就一举成名。"
+    },
+    {
+      "idiom": "半途而废",
+      "pinyin": "bàn tú ér fèi",
+      "meaning": "Bỏ dở giữa đường",
+      "situation": "Bạn học tiếng Trung được hai tháng rồi nghỉ, không học nữa."
+    },
+    {
+      "idiom": "马马虎虎",
+      "pinyin": "mǎ mǎ hū hū",
+      "meaning": "Làm qua loa, tạm được",
+      "situation": "Bài tập làm xong nhưng sai nhiều lỗi nhỏ vì không kiểm tra.",
+      "example": "这个工作不能马马虎虎。"
+    },
+    {
+      "idiom": "七上八下",
+      "pinyin": "qī shàng bā xià",
+      "meaning": "Lòng bồn chồn, lo lắng",
+      "situation": "Mai thi mà đêm nay bạn không ngủ được vì hồi hộp."
+    },
+    {
+      "idiom": "自相矛盾",
+      "pinyin": "zì xiāng máo dùn",
+      "meaning": "Tự mâu thuẫn với chính mình",
+      "situation": "Một người nói \"tôi không bao giờ nói dối\", rồi thừa nhận vừa nói dối."
+    },
+    {
+      "idiom": "井底之蛙",
+      "pinyin": "jǐng dǐ zhī wā",
+      "meaning": "Ếch ngồi đáy giếng, hiểu biết hẹp",
+      "situation": "Một người chưa từng ra khỏi làng mà cho rằng nơi mình là nhất."
+    },
+    {
+      "idiom": "入乡随俗",
+      "pinyin": "rù xiāng suí sú",
+      "meaning": "Đến đâu thì theo phong tục ở đó",
+      "situation": "Bạn sang nước khác và làm theo cách ăn uống của người bản xứ.",
+      "example": "到了新地方，要入乡随俗。"
+    }
+  ],
   "clozes": [
     {
       "id": "school_routine",
