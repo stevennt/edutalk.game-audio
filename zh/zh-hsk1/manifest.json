@@ -3,7 +3,7 @@
   "language": "chinese",
   "speaker": "vivian",
   "pace": 1.0,
-  "generatedAt": "2026-11-09T11:18:45Z",
+  "generatedAt": "2026-11-09T11:54:35Z",
   "clips": {
     "word:你好": {
       "file": "word-83719146.mp3",
@@ -439,6 +439,121 @@
       "file": "sentence-74373e13.mp3",
       "durationMs": 1200,
       "bytes": 10220
+    },
+    "tone:ma1": {
+      "file": "tone-7e14814a.mp3",
+      "durationMs": 720,
+      "bytes": 6380
+    },
+    "tone:ma2": {
+      "file": "tone-04b93564.mp3",
+      "durationMs": 12320,
+      "bytes": 99308
+    },
+    "tone:ma3": {
+      "file": "tone-4711ff52.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "tone:ma4": {
+      "file": "tone-3f7459b5.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "tone:ba1": {
+      "file": "tone-9f9eea3e.mp3",
+      "durationMs": 720,
+      "bytes": 6380
+    },
+    "tone:ba2": {
+      "file": "tone-2fcbe454.mp3",
+      "durationMs": 640,
+      "bytes": 5804
+    },
+    "tone:ba3": {
+      "file": "tone-d3a0e74d.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "tone:ba4": {
+      "file": "tone-0d3160d2.mp3",
+      "durationMs": 320,
+      "bytes": 3308
+    },
+    "tone:shi1": {
+      "file": "tone-ae75f034.mp3",
+      "durationMs": 320,
+      "bytes": 3308
+    },
+    "tone:shi2": {
+      "file": "tone-264686eb.mp3",
+      "durationMs": 1120,
+      "bytes": 9644
+    },
+    "tone:shi3": {
+      "file": "tone-7ccfba00.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "tone:shi4": {
+      "file": "tone-ef44af99.mp3",
+      "durationMs": 1360,
+      "bytes": 11564
+    },
+    "tone:yi1": {
+      "file": "tone-5a0db3e4.mp3",
+      "durationMs": 1200,
+      "bytes": 10220
+    },
+    "tone:yi2": {
+      "file": "tone-244576fb.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
+    },
+    "tone:yi3": {
+      "file": "tone-8b019fec.mp3",
+      "durationMs": 1040,
+      "bytes": 9068
+    },
+    "tone:yi4": {
+      "file": "tone-f33db5c0.mp3",
+      "durationMs": 960,
+      "bytes": 8300
+    },
+    "tone:tang1": {
+      "file": "tone-14c8eb6d.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "tone:tang2": {
+      "file": "tone-2e3d0747.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "tone:tang3": {
+      "file": "tone-51618186.mp3",
+      "durationMs": 800,
+      "bytes": 7148
+    },
+    "tone:tang4": {
+      "file": "tone-c8fbf852.mp3",
+      "durationMs": 560,
+      "bytes": 5228
+    },
+    "tone:ma5": {
+      "file": "tone-f4ba3f02.mp3",
+      "durationMs": 4880,
+      "bytes": 39788
+    },
+    "tone:ne5": {
+      "file": "tone-3d8c868a.mp3",
+      "durationMs": 1440,
+      "bytes": 12140
+    },
+    "tone:de5": {
+      "file": "tone-8ae05287.mp3",
+      "durationMs": 1280,
+      "bytes": 10988
     }
   }
 }
